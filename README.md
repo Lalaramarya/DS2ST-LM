@@ -6,4 +6,3 @@ The main contributions of this work are summarized as follows:
 * We systematically evaluate three projection architectures: Linear, Conv$1$D–Linear, and Q-Former, and analyze their effects on convergence stability and translation quality.
 * We investigate semantic token generation from target speech versus target text and analyze their impact on direct S$2$ST translation performance.
 * We integrate timbre-aware speech synthesis into direct S$2$ST by conditioning on semantic tokens and a reference speaker prompt to synthesize speaker-specific target speech.
-* We release all training recipes, evaluation pipelines, and model checkpoints to support reproducibility and future research.
